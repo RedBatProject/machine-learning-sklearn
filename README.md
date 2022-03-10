@@ -1,2 +1,2 @@
-# machine-learning-sraeisi
-all the note-books are from raeisi's lecture but with changes
+# machine-learning-sklearn
+all the note-books are from sklearn notes but with changes
